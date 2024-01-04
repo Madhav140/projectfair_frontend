@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://project-fair-kf19.onrender.com'
+export const BASE_URL = 'https://projectfair.onrender.com'
