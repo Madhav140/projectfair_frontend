@@ -49,7 +49,6 @@ function ProjectCard({project}) {
           <div className='d-flex mt-3'>
              <a style={{color:"grey"}} href={project.github} target='_blank'><i class="fa-brands fa-github fa-2x ms-5 mt-5"></i></a>
              <a style={{color:"grey"}} href={project.website} target='_blank'><i class="fa-solid fa-link fa-2x ms-5 mt-5"></i></a>
-
           </div>
         </Modal.Body>
 
